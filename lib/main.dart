@@ -16,6 +16,9 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
       ),
       home: const BeshinchiPage(),
+      //! 1 chi Page ishlatish uchun TortinchiDars dars dib kiritin
+      //! Example
+      //!  home: const TortinchiDars(),
       debugShowCheckedModeBanner: false,
     );
   }
